@@ -1,0 +1,7 @@
+C:\VisualStudio2019\ProgrammingBasicsWithC#\Depozit\Depozit\Depozit\bin\Debug\Depozit.exe.config
+C:\VisualStudio2019\ProgrammingBasicsWithC#\Depozit\Depozit\Depozit\bin\Debug\Depozit.exe
+C:\VisualStudio2019\ProgrammingBasicsWithC#\Depozit\Depozit\Depozit\bin\Debug\Depozit.pdb
+C:\VisualStudio2019\ProgrammingBasicsWithC#\Depozit\Depozit\Depozit\obj\Debug\Depozit.csproj.AssemblyReference.cache
+C:\VisualStudio2019\ProgrammingBasicsWithC#\Depozit\Depozit\Depozit\obj\Debug\Depozit.csproj.CoreCompileInputs.cache
+C:\VisualStudio2019\ProgrammingBasicsWithC#\Depozit\Depozit\Depozit\obj\Debug\Depozit.exe
+C:\VisualStudio2019\ProgrammingBasicsWithC#\Depozit\Depozit\Depozit\obj\Debug\Depozit.pdb
