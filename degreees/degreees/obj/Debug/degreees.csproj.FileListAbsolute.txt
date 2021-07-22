@@ -1,0 +1,7 @@
+C:\VisualStudio2019\ProgrammingBasicsWithC#\dedegree\degreees\degreees\bin\Debug\degreees.exe.config
+C:\VisualStudio2019\ProgrammingBasicsWithC#\dedegree\degreees\degreees\bin\Debug\degreees.exe
+C:\VisualStudio2019\ProgrammingBasicsWithC#\dedegree\degreees\degreees\bin\Debug\degreees.pdb
+C:\VisualStudio2019\ProgrammingBasicsWithC#\dedegree\degreees\degreees\obj\Debug\degreees.csproj.AssemblyReference.cache
+C:\VisualStudio2019\ProgrammingBasicsWithC#\dedegree\degreees\degreees\obj\Debug\degreees.csproj.CoreCompileInputs.cache
+C:\VisualStudio2019\ProgrammingBasicsWithC#\dedegree\degreees\degreees\obj\Debug\degreees.exe
+C:\VisualStudio2019\ProgrammingBasicsWithC#\dedegree\degreees\degreees\obj\Debug\degreees.pdb
