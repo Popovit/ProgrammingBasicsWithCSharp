@@ -1,0 +1,7 @@
+C:\VisualStudio2019\ProgrammingBasicsWithC#\USDtoBGN\usdToBgn\usdToBgn\bin\Debug\usdToBgn.exe.config
+C:\VisualStudio2019\ProgrammingBasicsWithC#\USDtoBGN\usdToBgn\usdToBgn\bin\Debug\usdToBgn.exe
+C:\VisualStudio2019\ProgrammingBasicsWithC#\USDtoBGN\usdToBgn\usdToBgn\bin\Debug\usdToBgn.pdb
+C:\VisualStudio2019\ProgrammingBasicsWithC#\USDtoBGN\usdToBgn\usdToBgn\obj\Debug\usdToBgn.csproj.AssemblyReference.cache
+C:\VisualStudio2019\ProgrammingBasicsWithC#\USDtoBGN\usdToBgn\usdToBgn\obj\Debug\usdToBgn.csproj.CoreCompileInputs.cache
+C:\VisualStudio2019\ProgrammingBasicsWithC#\USDtoBGN\usdToBgn\usdToBgn\obj\Debug\usdToBgn.exe
+C:\VisualStudio2019\ProgrammingBasicsWithC#\USDtoBGN\usdToBgn\usdToBgn\obj\Debug\usdToBgn.pdb
