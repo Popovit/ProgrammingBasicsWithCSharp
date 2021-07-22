@@ -1,7 +1,0 @@
-C:\VisualStudio2019\ProgrammingBasicsWithC#\SaluteByName\SaluteByName\SaluteByName\obj\Debug\SaluteByName.csproj.AssemblyReference.cache
-C:\VisualStudio2019\ProgrammingBasicsWithC#\SaluteByName\SaluteByName\SaluteByName\obj\Debug\SaluteByName.csproj.CoreCompileInputs.cache
-C:\VisualStudio2019\ProgrammingBasicsWithC#\SaluteByName\SaluteByName\SaluteByName\bin\Debug\SaluteByName.exe.config
-C:\VisualStudio2019\ProgrammingBasicsWithC#\SaluteByName\SaluteByName\SaluteByName\bin\Debug\SaluteByName.exe
-C:\VisualStudio2019\ProgrammingBasicsWithC#\SaluteByName\SaluteByName\SaluteByName\bin\Debug\SaluteByName.pdb
-C:\VisualStudio2019\ProgrammingBasicsWithC#\SaluteByName\SaluteByName\SaluteByName\obj\Debug\SaluteByName.exe
-C:\VisualStudio2019\ProgrammingBasicsWithC#\SaluteByName\SaluteByName\SaluteByName\obj\Debug\SaluteByName.pdb
