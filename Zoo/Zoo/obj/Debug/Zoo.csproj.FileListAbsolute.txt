@@ -1,7 +1,0 @@
-C:\VisualStudio2019\ProgrammingBasicsWithC#\SaluteByName\ProjectPrepearing\Zoo\Zoo\obj\Debug\Zoo.csproj.AssemblyReference.cache
-C:\VisualStudio2019\ProgrammingBasicsWithC#\SaluteByName\ProjectPrepearing\Zoo\Zoo\obj\Debug\Zoo.csproj.CoreCompileInputs.cache
-C:\VisualStudio2019\ProgrammingBasicsWithC#\SaluteByName\ProjectPrepearing\Zoo\Zoo\bin\Debug\Zoo.exe.config
-C:\VisualStudio2019\ProgrammingBasicsWithC#\SaluteByName\ProjectPrepearing\Zoo\Zoo\bin\Debug\Zoo.exe
-C:\VisualStudio2019\ProgrammingBasicsWithC#\SaluteByName\ProjectPrepearing\Zoo\Zoo\bin\Debug\Zoo.pdb
-C:\VisualStudio2019\ProgrammingBasicsWithC#\SaluteByName\ProjectPrepearing\Zoo\Zoo\obj\Debug\Zoo.exe
-C:\VisualStudio2019\ProgrammingBasicsWithC#\SaluteByName\ProjectPrepearing\Zoo\Zoo\obj\Debug\Zoo.pdb
