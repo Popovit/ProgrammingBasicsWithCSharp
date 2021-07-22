@@ -1,0 +1,7 @@
+C:\VisualStudio2019\ProgrammingBasicsWithC#\SaluteByName\ProjectPrepearing\projectprepearing\projectprepearing\bin\Debug\projectprepearing.exe.config
+C:\VisualStudio2019\ProgrammingBasicsWithC#\SaluteByName\ProjectPrepearing\projectprepearing\projectprepearing\bin\Debug\projectprepearing.exe
+C:\VisualStudio2019\ProgrammingBasicsWithC#\SaluteByName\ProjectPrepearing\projectprepearing\projectprepearing\bin\Debug\projectprepearing.pdb
+C:\VisualStudio2019\ProgrammingBasicsWithC#\SaluteByName\ProjectPrepearing\projectprepearing\projectprepearing\obj\Debug\projectprepearing.csproj.AssemblyReference.cache
+C:\VisualStudio2019\ProgrammingBasicsWithC#\SaluteByName\ProjectPrepearing\projectprepearing\projectprepearing\obj\Debug\projectprepearing.csproj.CoreCompileInputs.cache
+C:\VisualStudio2019\ProgrammingBasicsWithC#\SaluteByName\ProjectPrepearing\projectprepearing\projectprepearing\obj\Debug\projectprepearing.exe
+C:\VisualStudio2019\ProgrammingBasicsWithC#\SaluteByName\ProjectPrepearing\projectprepearing\projectprepearing\obj\Debug\projectprepearing.pdb

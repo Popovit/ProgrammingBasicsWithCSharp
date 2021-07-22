@@ -1,0 +1,7 @@
+C:\VisualStudio2019\ProgrammingBasicsWithC#\Ozelenqwane\Ozelenqwane\Ozelenqwane\obj\Debug\Ozelenqwane.csproj.AssemblyReference.cache
+C:\VisualStudio2019\ProgrammingBasicsWithC#\Ozelenqwane\Ozelenqwane\Ozelenqwane\obj\Debug\Ozelenqwane.csproj.CoreCompileInputs.cache
+C:\VisualStudio2019\ProgrammingBasicsWithC#\Ozelenqwane\Ozelenqwane\Ozelenqwane\bin\Debug\Ozelenqwane.exe.config
+C:\VisualStudio2019\ProgrammingBasicsWithC#\Ozelenqwane\Ozelenqwane\Ozelenqwane\bin\Debug\Ozelenqwane.exe
+C:\VisualStudio2019\ProgrammingBasicsWithC#\Ozelenqwane\Ozelenqwane\Ozelenqwane\bin\Debug\Ozelenqwane.pdb
+C:\VisualStudio2019\ProgrammingBasicsWithC#\Ozelenqwane\Ozelenqwane\Ozelenqwane\obj\Debug\Ozelenqwane.exe
+C:\VisualStudio2019\ProgrammingBasicsWithC#\Ozelenqwane\Ozelenqwane\Ozelenqwane\obj\Debug\Ozelenqwane.pdb
