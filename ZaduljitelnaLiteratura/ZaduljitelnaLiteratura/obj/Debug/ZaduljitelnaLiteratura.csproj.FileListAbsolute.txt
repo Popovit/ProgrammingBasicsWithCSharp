@@ -1,0 +1,7 @@
+C:\VisualStudio2019\ProgrammingBasicsWithC#\Zaduljitelna lIT\ZaduljitelnaLiteratura\ZaduljitelnaLiteratura\bin\Debug\ZaduljitelnaLiteratura.exe.config
+C:\VisualStudio2019\ProgrammingBasicsWithC#\Zaduljitelna lIT\ZaduljitelnaLiteratura\ZaduljitelnaLiteratura\bin\Debug\ZaduljitelnaLiteratura.exe
+C:\VisualStudio2019\ProgrammingBasicsWithC#\Zaduljitelna lIT\ZaduljitelnaLiteratura\ZaduljitelnaLiteratura\bin\Debug\ZaduljitelnaLiteratura.pdb
+C:\VisualStudio2019\ProgrammingBasicsWithC#\Zaduljitelna lIT\ZaduljitelnaLiteratura\ZaduljitelnaLiteratura\obj\Debug\ZaduljitelnaLiteratura.csproj.AssemblyReference.cache
+C:\VisualStudio2019\ProgrammingBasicsWithC#\Zaduljitelna lIT\ZaduljitelnaLiteratura\ZaduljitelnaLiteratura\obj\Debug\ZaduljitelnaLiteratura.csproj.CoreCompileInputs.cache
+C:\VisualStudio2019\ProgrammingBasicsWithC#\Zaduljitelna lIT\ZaduljitelnaLiteratura\ZaduljitelnaLiteratura\obj\Debug\ZaduljitelnaLiteratura.exe
+C:\VisualStudio2019\ProgrammingBasicsWithC#\Zaduljitelna lIT\ZaduljitelnaLiteratura\ZaduljitelnaLiteratura\obj\Debug\ZaduljitelnaLiteratura.pdb
