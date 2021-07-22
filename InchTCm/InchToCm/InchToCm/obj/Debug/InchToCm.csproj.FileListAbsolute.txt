@@ -1,0 +1,7 @@
+C:\VisualStudio2019\ProgrammingBasicsWithC#\InchTCm\InchToCm\InchToCm\obj\Debug\InchToCm.csproj.AssemblyReference.cache
+C:\VisualStudio2019\ProgrammingBasicsWithC#\InchTCm\InchToCm\InchToCm\obj\Debug\InchToCm.csproj.CoreCompileInputs.cache
+C:\VisualStudio2019\ProgrammingBasicsWithC#\InchTCm\InchToCm\InchToCm\bin\Debug\InchToCm.exe.config
+C:\VisualStudio2019\ProgrammingBasicsWithC#\InchTCm\InchToCm\InchToCm\bin\Debug\InchToCm.exe
+C:\VisualStudio2019\ProgrammingBasicsWithC#\InchTCm\InchToCm\InchToCm\bin\Debug\InchToCm.pdb
+C:\VisualStudio2019\ProgrammingBasicsWithC#\InchTCm\InchToCm\InchToCm\obj\Debug\InchToCm.exe
+C:\VisualStudio2019\ProgrammingBasicsWithC#\InchTCm\InchToCm\InchToCm\obj\Debug\InchToCm.pdb
