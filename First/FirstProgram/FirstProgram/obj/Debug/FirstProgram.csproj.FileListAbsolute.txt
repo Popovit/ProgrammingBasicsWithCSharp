@@ -1,7 +1,0 @@
-C:\VisualStudio2019\ProgrammingBasicsWithC#\First\FirstProgram\FirstProgram\bin\Debug\FirstProgram.exe.config
-C:\VisualStudio2019\ProgrammingBasicsWithC#\First\FirstProgram\FirstProgram\bin\Debug\FirstProgram.exe
-C:\VisualStudio2019\ProgrammingBasicsWithC#\First\FirstProgram\FirstProgram\bin\Debug\FirstProgram.pdb
-C:\VisualStudio2019\ProgrammingBasicsWithC#\First\FirstProgram\FirstProgram\obj\Debug\FirstProgram.csproj.AssemblyReference.cache
-C:\VisualStudio2019\ProgrammingBasicsWithC#\First\FirstProgram\FirstProgram\obj\Debug\FirstProgram.csproj.CoreCompileInputs.cache
-C:\VisualStudio2019\ProgrammingBasicsWithC#\First\FirstProgram\FirstProgram\obj\Debug\FirstProgram.exe
-C:\VisualStudio2019\ProgrammingBasicsWithC#\First\FirstProgram\FirstProgram\obj\Debug\FirstProgram.pdb
