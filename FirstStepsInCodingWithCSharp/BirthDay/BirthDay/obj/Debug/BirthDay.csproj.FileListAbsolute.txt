@@ -1,0 +1,7 @@
+C:\VisualStudio2019\ProgrammingBasicsWithC#\BirthDay\BirthDay\BirthDay\bin\Debug\BirthDay.exe.config
+C:\VisualStudio2019\ProgrammingBasicsWithC#\BirthDay\BirthDay\BirthDay\bin\Debug\BirthDay.exe
+C:\VisualStudio2019\ProgrammingBasicsWithC#\BirthDay\BirthDay\BirthDay\bin\Debug\BirthDay.pdb
+C:\VisualStudio2019\ProgrammingBasicsWithC#\BirthDay\BirthDay\BirthDay\obj\Debug\BirthDay.csproj.AssemblyReference.cache
+C:\VisualStudio2019\ProgrammingBasicsWithC#\BirthDay\BirthDay\BirthDay\obj\Debug\BirthDay.csproj.CoreCompileInputs.cache
+C:\VisualStudio2019\ProgrammingBasicsWithC#\BirthDay\BirthDay\BirthDay\obj\Debug\BirthDay.exe
+C:\VisualStudio2019\ProgrammingBasicsWithC#\BirthDay\BirthDay\BirthDay\obj\Debug\BirthDay.pdb

@@ -1,0 +1,7 @@
+C:\VisualStudio2019\ProgrammingBasicsWithC#\pazar\pazar\pazar\bin\Debug\pazar.exe.config
+C:\VisualStudio2019\ProgrammingBasicsWithC#\pazar\pazar\pazar\bin\Debug\pazar.exe
+C:\VisualStudio2019\ProgrammingBasicsWithC#\pazar\pazar\pazar\bin\Debug\pazar.pdb
+C:\VisualStudio2019\ProgrammingBasicsWithC#\pazar\pazar\pazar\obj\Debug\pazar.csproj.AssemblyReference.cache
+C:\VisualStudio2019\ProgrammingBasicsWithC#\pazar\pazar\pazar\obj\Debug\pazar.csproj.CoreCompileInputs.cache
+C:\VisualStudio2019\ProgrammingBasicsWithC#\pazar\pazar\pazar\obj\Debug\pazar.exe
+C:\VisualStudio2019\ProgrammingBasicsWithC#\pazar\pazar\pazar\obj\Debug\pazar.pdb
