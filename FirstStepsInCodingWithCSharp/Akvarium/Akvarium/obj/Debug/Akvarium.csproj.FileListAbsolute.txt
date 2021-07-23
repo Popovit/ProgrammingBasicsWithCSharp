@@ -1,0 +1,7 @@
+C:\VisualStudio2019\ProgrammingBasicsWithC#\Akwarium\Akvarium\Akvarium\obj\Debug\Akvarium.csproj.AssemblyReference.cache
+C:\VisualStudio2019\ProgrammingBasicsWithC#\Akwarium\Akvarium\Akvarium\obj\Debug\Akvarium.csproj.CoreCompileInputs.cache
+C:\VisualStudio2019\ProgrammingBasicsWithC#\Akwarium\Akvarium\Akvarium\bin\Debug\Akvarium.exe.config
+C:\VisualStudio2019\ProgrammingBasicsWithC#\Akwarium\Akvarium\Akvarium\bin\Debug\Akvarium.exe
+C:\VisualStudio2019\ProgrammingBasicsWithC#\Akwarium\Akvarium\Akvarium\bin\Debug\Akvarium.pdb
+C:\VisualStudio2019\ProgrammingBasicsWithC#\Akwarium\Akvarium\Akvarium\obj\Debug\Akvarium.exe
+C:\VisualStudio2019\ProgrammingBasicsWithC#\Akwarium\Akvarium\Akvarium\obj\Debug\Akvarium.pdb
