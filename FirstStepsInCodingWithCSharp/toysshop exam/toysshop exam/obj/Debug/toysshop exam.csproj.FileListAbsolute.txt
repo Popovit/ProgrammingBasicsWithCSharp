@@ -1,0 +1,7 @@
+C:\VisualStudio2019\ProgrammingBasicsWithC#\toysshops exam\toysshop exam\toysshop exam\obj\Debug\toysshop exam.csproj.AssemblyReference.cache
+C:\VisualStudio2019\ProgrammingBasicsWithC#\toysshops exam\toysshop exam\toysshop exam\obj\Debug\toysshop exam.csproj.CoreCompileInputs.cache
+C:\VisualStudio2019\ProgrammingBasicsWithC#\toysshops exam\toysshop exam\toysshop exam\bin\Debug\toysshop exam.exe.config
+C:\VisualStudio2019\ProgrammingBasicsWithC#\toysshops exam\toysshop exam\toysshop exam\bin\Debug\toysshop exam.exe
+C:\VisualStudio2019\ProgrammingBasicsWithC#\toysshops exam\toysshop exam\toysshop exam\bin\Debug\toysshop exam.pdb
+C:\VisualStudio2019\ProgrammingBasicsWithC#\toysshops exam\toysshop exam\toysshop exam\obj\Debug\toysshop exam.exe
+C:\VisualStudio2019\ProgrammingBasicsWithC#\toysshops exam\toysshop exam\toysshop exam\obj\Debug\toysshop exam.pdb
