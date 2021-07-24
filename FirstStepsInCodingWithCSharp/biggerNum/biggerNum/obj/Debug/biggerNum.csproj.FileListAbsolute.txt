@@ -1,0 +1,7 @@
+C:\VisualStudio2019\ProgrammingBasicsWithC#\biggerNum\biggerNum\biggerNum\bin\Debug\biggerNum.exe.config
+C:\VisualStudio2019\ProgrammingBasicsWithC#\biggerNum\biggerNum\biggerNum\bin\Debug\biggerNum.exe
+C:\VisualStudio2019\ProgrammingBasicsWithC#\biggerNum\biggerNum\biggerNum\bin\Debug\biggerNum.pdb
+C:\VisualStudio2019\ProgrammingBasicsWithC#\biggerNum\biggerNum\biggerNum\obj\Debug\biggerNum.csproj.AssemblyReference.cache
+C:\VisualStudio2019\ProgrammingBasicsWithC#\biggerNum\biggerNum\biggerNum\obj\Debug\biggerNum.csproj.CoreCompileInputs.cache
+C:\VisualStudio2019\ProgrammingBasicsWithC#\biggerNum\biggerNum\biggerNum\obj\Debug\biggerNum.exe
+C:\VisualStudio2019\ProgrammingBasicsWithC#\biggerNum\biggerNum\biggerNum\obj\Debug\biggerNum.pdb
