@@ -1,0 +1,7 @@
+C:\VisualStudio2019\ProgrammingBasicsWithC#\num100to200\num100to200\num100to200\bin\Debug\num100to200.exe.config
+C:\VisualStudio2019\ProgrammingBasicsWithC#\num100to200\num100to200\num100to200\bin\Debug\num100to200.exe
+C:\VisualStudio2019\ProgrammingBasicsWithC#\num100to200\num100to200\num100to200\bin\Debug\num100to200.pdb
+C:\VisualStudio2019\ProgrammingBasicsWithC#\num100to200\num100to200\num100to200\obj\Debug\num100to200.csproj.AssemblyReference.cache
+C:\VisualStudio2019\ProgrammingBasicsWithC#\num100to200\num100to200\num100to200\obj\Debug\num100to200.csproj.CoreCompileInputs.cache
+C:\VisualStudio2019\ProgrammingBasicsWithC#\num100to200\num100to200\num100to200\obj\Debug\num100to200.exe
+C:\VisualStudio2019\ProgrammingBasicsWithC#\num100to200\num100to200\num100to200\obj\Debug\num100to200.pdb
