@@ -1,0 +1,7 @@
+C:\VisualStudio2019\ProgrammingBasicsWithC#\S\S\S\obj\Debug\S.csproj.AssemblyReference.cache
+C:\VisualStudio2019\ProgrammingBasicsWithC#\S\S\S\obj\Debug\S.csproj.CoreCompileInputs.cache
+C:\VisualStudio2019\ProgrammingBasicsWithC#\S\S\S\bin\Debug\S.exe.config
+C:\VisualStudio2019\ProgrammingBasicsWithC#\S\S\S\bin\Debug\S.exe
+C:\VisualStudio2019\ProgrammingBasicsWithC#\S\S\S\bin\Debug\S.pdb
+C:\VisualStudio2019\ProgrammingBasicsWithC#\S\S\S\obj\Debug\S.exe
+C:\VisualStudio2019\ProgrammingBasicsWithC#\S\S\S\obj\Debug\S.pdb
