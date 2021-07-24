@@ -1,0 +1,7 @@
+C:\VisualStudio2019\ProgrammingBasicsWithC#\proverka\proverka\proverka\bin\Debug\proverka.exe.config
+C:\VisualStudio2019\ProgrammingBasicsWithC#\proverka\proverka\proverka\bin\Debug\proverka.exe
+C:\VisualStudio2019\ProgrammingBasicsWithC#\proverka\proverka\proverka\bin\Debug\proverka.pdb
+C:\VisualStudio2019\ProgrammingBasicsWithC#\proverka\proverka\proverka\obj\Debug\proverka.csproj.AssemblyReference.cache
+C:\VisualStudio2019\ProgrammingBasicsWithC#\proverka\proverka\proverka\obj\Debug\proverka.csproj.CoreCompileInputs.cache
+C:\VisualStudio2019\ProgrammingBasicsWithC#\proverka\proverka\proverka\obj\Debug\proverka.exe
+C:\VisualStudio2019\ProgrammingBasicsWithC#\proverka\proverka\proverka\obj\Debug\proverka.pdb
