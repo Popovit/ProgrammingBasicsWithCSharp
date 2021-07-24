@@ -1,0 +1,7 @@
+C:\VisualStudio2019\ProgrammingBasicsWithC#\poznaiParolata\poznaiParolata\poznaiParolata\bin\Debug\poznaiParolata.exe.config
+C:\VisualStudio2019\ProgrammingBasicsWithC#\poznaiParolata\poznaiParolata\poznaiParolata\bin\Debug\poznaiParolata.exe
+C:\VisualStudio2019\ProgrammingBasicsWithC#\poznaiParolata\poznaiParolata\poznaiParolata\bin\Debug\poznaiParolata.pdb
+C:\VisualStudio2019\ProgrammingBasicsWithC#\poznaiParolata\poznaiParolata\poznaiParolata\obj\Debug\poznaiParolata.csproj.AssemblyReference.cache
+C:\VisualStudio2019\ProgrammingBasicsWithC#\poznaiParolata\poznaiParolata\poznaiParolata\obj\Debug\poznaiParolata.csproj.CoreCompileInputs.cache
+C:\VisualStudio2019\ProgrammingBasicsWithC#\poznaiParolata\poznaiParolata\poznaiParolata\obj\Debug\poznaiParolata.exe
+C:\VisualStudio2019\ProgrammingBasicsWithC#\poznaiParolata\poznaiParolata\poznaiParolata\obj\Debug\poznaiParolata.pdb
